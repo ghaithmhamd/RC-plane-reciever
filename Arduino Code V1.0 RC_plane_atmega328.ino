@@ -1,9 +1,4 @@
-/*
-    DIY Arduino based RC Transmitter Project
-   == Receiver Code - ESC and Servo Control ==
-  by Dejan Nedelkovski, www.HowToMechatronics.com
-  Library: TMRh20/RF24, https://github.com/tmrh20/RF24/
-*/
+//Project created by Ghaith Mhamdi
 #include <SPI.h>
 #include <nRF24L01.h>
 #include <RF24.h>
