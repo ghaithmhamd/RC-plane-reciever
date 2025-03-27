@@ -1,6 +1,6 @@
 # RC Plane Codes 🛩️  
 
-This repository contains two versions of an **RC plane receiver code**, both using **NRF24L01** for wireless communication with the transmitter from [my poster]([link](https://github.com/ghaithm.../Radio-transmitter-and-reciever).  
+This repository contains two versions of an **RC plane receiver code**, both using **NRF24L01** for wireless communication with the transmitter from [my poster](https://github.com/ghaithmhamd/Radio-transmitter-and-reciever).  
 
 ## ✈️ Version 1.0 - ATmega328 & Brushed Motors  
 - **Microcontroller**: ATmega328  
