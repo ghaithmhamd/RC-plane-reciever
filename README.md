@@ -1,2 +1,17 @@
-# RC-plane-reciever
-## RC Plane Receiver System with Arduino Nano ✈️  This setup uses an **Arduino Nano** and **NRF24L01** module for wireless control, paired with an **ESC** to manage a **brushless motor**. It allows smooth, responsive flight control for your RC plane, ideal for hobbyists seeking precise control and reliability in their flights. 🚁
+# RC Plane Codes 🛩️  
+
+This repository contains two versions of an **RC plane receiver code**, both using **NRF24L01** for wireless communication with the transmitter from [my poster]([link](https://github.com/ghaithm.../Radio-transmitter-and-reciever).  
+
+## ✈️ Version 1.0 - ATmega328 & Brushed Motors  
+- **Microcontroller**: ATmega328  
+- **Motors**: Brushed  
+- **Communication**: NRF24L01  
+- **Video**: [Watch on Facebook](https://www.facebook.com/share/r/1AMembcc36/)  
+
+## ✈️ Version 2.0 - Arduino Nano & Brushless Motor  
+- **Microcontroller**: Arduino Nano  
+- **Motor**: Brushless (via ESC)  
+- **Communication**: NRF24L01  
+- **Video**: [Watch on Facebook](https://www.facebook.com/share/r/12Hkgee1qXn/)  
+
+Both versions allow precise RC control and are optimized for stable flight. 🚀  
